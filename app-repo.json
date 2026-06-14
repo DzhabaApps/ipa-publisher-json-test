@@ -1,8 +1,6 @@
 {
   "name": "Dzhaba Apps Test",
   "identifier": "com.dzhaba.apps.test.repo",
-  "iconURL": "",
-  "website": "",
   "apps": [
     {
       "name": "HDrezka",
