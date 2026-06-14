@@ -3,35 +3,7 @@
   "identifier": "com.dzhaba.apps.test.repo",
   "iconURL": "",
   "website": "",
-  "apps": [
-    {
-      "name": "HDrezka",
-      "bundleIdentifier": "me.keet.HDRezka",
-      "developerName": "",
-      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/ipa-publisher-json-test/main/assets/me.keet.HDRezka-1.5.4.png",
-      "localizedDescription": "",
-      "subtitle": "HDrezka",
-      "tintColor": "848ef9",
-      "versions": [
-        {
-          "version": "1.5.4",
-          "date": "2026-06-13T21:53:00Z",
-          "size": 5109566,
-          "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/DzhabaApps/ipa-publisher-json-test/main/assets/me.keet.HDRezka-screenshot-1-c1d50b2d86.jpeg",
-        "https://raw.githubusercontent.com/DzhabaApps/ipa-publisher-json-test/main/assets/me.keet.HDRezka-screenshot-2-7fb5ab1028.jpeg",
-        "https://raw.githubusercontent.com/DzhabaApps/ipa-publisher-json-test/main/assets/me.keet.HDRezka-screenshot-3-49f2a2b4fd.jpeg"
-      ],
-      "version": "1.5.4",
-      "versionDate": "2026-06-13T21:53:00Z",
-      "size": 5109566,
-      "downloadURL": "https://github.com/DzhabaApps/Dzhaba-Apps/releases/download/Hdrezka/HDRezka.ipa"
-    }
-  ],
+  "apps": [],
   "news": [],
   "subtitle": "Test IPA source",
   "tintColor": "848ef9"
