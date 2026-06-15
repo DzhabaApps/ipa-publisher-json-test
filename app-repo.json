@@ -12,6 +12,12 @@
       "tintColor": "848ef9",
       "versions": [
         {
+          "version": "1.5.4",
+          "date": "2026-06-15T09:30:00Z",
+          "size": 5109566,
+          "downloadURL": "https://github.com/DzhabaApps/ipa-publisher-json-test/releases/download/ipa-me.keet.hdrezka-1.5.4-20260615093014-c256cc47/ca350c4e462447a6821fe7c9660c74ab_HDRezka.ipa"
+        },
+        {
           "version": "1.6.0",
           "date": "2026-06-14T23:25:00Z",
           "size": 7172727,
@@ -22,10 +28,36 @@
       "screenshotURLs": [
         "https://raw.githubusercontent.com/DzhabaApps/ipa-publisher-json-test/main/assets/me.keet.HDRezka-screenshot-1-89e0401d19.png"
       ],
-      "version": "1.6.0",
-      "versionDate": "2026-06-14T23:25:00Z",
-      "size": 7172727,
-      "downloadURL": "https://github.com/DzhabaApps/ipa-publisher-json-test/releases/download/ipa-me.keet.hdrezka-1.5.4-20260614074014-d50e00af/1eabfeb981544af8b70aec76c007773a_HDRezka.ipa"
+      "version": "1.5.4",
+      "versionDate": "2026-06-15T09:30:00Z",
+      "size": 5109566,
+      "downloadURL": "https://github.com/DzhabaApps/ipa-publisher-json-test/releases/download/ipa-me.keet.hdrezka-1.5.4-20260615093014-c256cc47/ca350c4e462447a6821fe7c9660c74ab_HDRezka.ipa"
+    },
+    {
+      "name": "episod.club",
+      "bundleIdentifier": "xyz.kinohome",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/ipa-publisher-json-test/main/assets/xyz.kinohome-1.1.0.png",
+      "localizedDescription": "",
+      "subtitle": "episod.club",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2026-06-15T14:15:00Z",
+          "size": 35290352,
+          "downloadURL": "https://github.com/DzhabaApps/ipa-publisher-json-test/releases/download/ipa-xyz.kinohome-1.1.0-20260615141523-f4803731/episod.club-1.1.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/DzhabaApps/ipa-publisher-json-test/main/assets/xyz.kinohome-screenshot-1-558ff93413.jpg",
+        "https://raw.githubusercontent.com/DzhabaApps/ipa-publisher-json-test/main/assets/xyz.kinohome-screenshot-2-39caf304c5.jpg"
+      ],
+      "version": "1.1.0",
+      "versionDate": "2026-06-15T14:15:00Z",
+      "size": 35290352,
+      "downloadURL": "https://github.com/DzhabaApps/ipa-publisher-json-test/releases/download/ipa-xyz.kinohome-1.1.0-20260615141523-f4803731/episod.club-1.1.0.ipa"
     }
   ],
   "news": [],
