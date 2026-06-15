@@ -3,6 +3,31 @@
   "identifier": "com.dzhaba.apps.test.repo",
   "apps": [
     {
+      "name": "PureStatus",
+      "bundleIdentifier": "com.damtechdesigns.wa.story",
+      "developerName": "",
+      "iconURL": "https://raw.githubusercontent.com/DzhabaApps/ipa-publisher-json-test/main/assets/com.damtechdesigns.wa.story-2026.01.png",
+      "localizedDescription": "",
+      "subtitle": "PureStatus",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "2026.01",
+          "date": "2026-06-15T16:04:00Z",
+          "size": 60438618,
+          "downloadURL": "https://github.com/DzhabaApps/ipa-publisher-json-test/releases/download/ipa-com.damtechdesigns.wa.story-2026.01-20260615160457-c95a64a6/PureStatus-2026.01.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/DzhabaApps/ipa-publisher-json-test/main/assets/com.damtechdesigns.wa.story-screenshot-1-d8b929a9ca.jpg"
+      ],
+      "version": "2026.01",
+      "versionDate": "2026-06-15T16:04:00Z",
+      "size": 60438618,
+      "downloadURL": "https://github.com/DzhabaApps/ipa-publisher-json-test/releases/download/ipa-com.damtechdesigns.wa.story-2026.01-20260615160457-c95a64a6/PureStatus-2026.01.ipa"
+    },
+    {
       "name": "HDrezka",
       "bundleIdentifier": "me.keet.HDRezka",
       "developerName": "",
